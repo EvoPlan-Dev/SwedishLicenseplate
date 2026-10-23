@@ -8,3 +8,8 @@ A simple FiveM resource featuring textures for Swedish license plates and licens
 3. Add `ensure evox_licenseplates` to your `server.cfg`.
 
 That's it! Easy drag-and-drop installation.
+
+### Credits
+Design by Drivezz https://www.lcpdfr.com/downloads/gta5mods/datafile/49947-swedish-license-plates/
+
+**Discord:**https://discord.gg/ymws3SdHSc
