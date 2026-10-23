@@ -12,4 +12,5 @@ That's it! Easy drag-and-drop installation.
 ### Credits
 Design by Drivezz https://www.lcpdfr.com/downloads/gta5mods/datafile/49947-swedish-license-plates/
 
-**Discord:**https://discord.gg/ymws3SdHSc
+### EvoX Studios
+Discord:https://discord.gg/ymws3SdHSc
